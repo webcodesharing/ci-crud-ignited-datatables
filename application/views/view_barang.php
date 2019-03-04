@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>(CRUD) Ajax Ignited Datatable | SimpleCodz</title>
+    <title>(CRUD) Ajax Ignited Datatable | Webcodesharing</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="<?=base_url();?>assets/bootstrap-4/css/bootstrap.min.css">
@@ -12,7 +12,7 @@
 
     <div class="container pt-4">
         <h1 class="h3 text-center">CodeIgniter Ajax CRUD using Jquery with Ignited Datatables Server-side</h1>
-        <p class="small text-center">by <a href="https://simplecodz.blogspot.com">SimpleCodz</a></p>
+        <p class="small text-center">by <a href="https://webcodesharing.blogspot.com">Webcodesharing</a></p>
     
         <div class="mt-5 mb-4">
             <h4 class="card-title text-center">Data Barang</h4>
